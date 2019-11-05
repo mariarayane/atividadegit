@@ -13,6 +13,11 @@ namespace ConsoleApp1
         {
             return v1 + v2;
         }
+
+        static int sub(int v1, int v2)
+        {
+            return v1 - v2;
+        }
         static void Main(string[] args)
         {
         }
